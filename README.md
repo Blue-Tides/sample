@@ -1,4 +1,4 @@
-Figure Generated from sample.py<br>
+Plot generated from sample.py:<br>
 ![plot](./Figure_1.png)
 Bar widths denote proportion of total citizen population<br><br>
 Data from:<br>
